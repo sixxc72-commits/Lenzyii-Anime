@@ -12,8 +12,8 @@
     "year": 2023,
     "studio": "Madhouse",
     "episodes": [
-      { "episode": "1", "title": "The Journey's End", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
-      { "episode": "2", "title": "It Didn't Have to Be Magic...", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" },
+      { "episode": "1", "title": "The Journey's End", "video": "https://pixeldrain.com/api/file/EsZ9qmJB" },
+      { "episode": "2", "title": "It Didn't Have to Be Magic...", "video": "https://pixeldrain.com/api/file/S6he9XwJ" },
       { "episode": "3", "title": "Killing Magic", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" },
       { "episode": "4", "title": "The Land Where Souls Rest", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4" },
       { "episode": "5", "title": "Phantoms of the Dead", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4" },
