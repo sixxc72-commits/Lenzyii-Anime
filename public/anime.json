@@ -1,0 +1,302 @@
+[
+  {
+    "id": "frieren",
+    "title": "Sousou no Frieren",
+    "titleJp": "葬送のフリーレン",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
+    "banner": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
+    "genre": ["Fantasy", "Adventure", "Drama"],
+    "rating": 9.1,
+    "status": "Completed",
+    "synopsis": "After the party of heroes defeated the Demon King, the aftermath of their victory left the world in peace. As the years pass, the elven mage Frieren comes to regret not learning more about her companions. Now she sets out on a journey to understand human emotions.",
+    "year": 2023,
+    "studio": "Madhouse",
+    "episodes": [
+      { "episode": "1", "title": "The Journey's End", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
+      { "episode": "2", "title": "It Didn't Have to Be Magic...", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" },
+      { "episode": "3", "title": "Killing Magic", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" },
+      { "episode": "4", "title": "The Land Where Souls Rest", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4" },
+      { "episode": "5", "title": "Phantoms of the Dead", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4" },
+      { "episode": "6", "title": "The Hero of the Village of the Sword", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4" },
+      { "episode": "7", "title": "Like a Fairy Tale", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4" },
+      { "episode": "8", "title": "Frieren the Slayer", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4" }
+    ]
+  },
+  {
+    "id": "jjk-s2",
+    "title": "Jujutsu Kaisen Season 2",
+    "titleJp": "呪術廻戦 第2期",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+    "banner": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+    "genre": ["Action", "Supernatural", "School"],
+    "rating": 8.8,
+    "status": "Completed",
+    "synopsis": "The second season of Jujutsu Kaisen. Hidden Inventory arc and Shibuya Incident arc. Gojo and Geto's past is revealed, leading to the catastrophic events in Shibuya.",
+    "year": 2023,
+    "studio": "MAPPA",
+    "episodes": [
+      { "episode": "1", "title": "Hidden Inventory", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
+      { "episode": "2", "title": "Hidden Inventory 2", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" },
+      { "episode": "3", "title": "Hidden Inventory 3", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" },
+      { "episode": "4", "title": "Hidden Inventory 4", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4" },
+      { "episode": "5", "title": "Hidden Inventory 5", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4" },
+      { "episode": "6", "title": "Shibuya Incident", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4" }
+    ]
+  },
+  {
+    "id": "solo-leveling",
+    "title": "Solo Leveling Season 2",
+    "titleJp": "俺だけレベルアップな件 Season 2",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1314/142680.jpg",
+    "banner": "https://cdn.myanimelist.net/images/anime/1314/142680.jpg",
+    "genre": ["Action", "Fantasy", "Adventure"],
+    "rating": 8.6,
+    "status": "Ongoing",
+    "synopsis": "Sung Jinwoo continues his journey as the world's most powerful hunter. Armed with his shadow army, he faces even greater threats from the dungeons that threaten humanity.",
+    "year": 2025,
+    "studio": "A-1 Pictures",
+    "episodes": [
+      { "episode": "1", "title": "Arise", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
+      { "episode": "2", "title": "Shadow Soldiers", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" },
+      { "episode": "3", "title": "The Monarch", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" },
+      { "episode": "4", "title": "Red Gate", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4" }
+    ]
+  },
+  {
+    "id": "dandadan",
+    "title": "Dandadan",
+    "titleJp": "ダンダダン",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1079/142615.jpg",
+    "banner": "https://cdn.myanimelist.net/images/anime/1079/142615.jpg",
+    "genre": ["Action", "Comedy", "Supernatural", "Romance"],
+    "rating": 8.5,
+    "status": "Ongoing",
+    "synopsis": "Momo Ayase believes in ghosts but not aliens, while her classmate Okarun believes in aliens but not ghosts. They make a bet to prove each other wrong, leading to bizarre supernatural encounters.",
+    "year": 2024,
+    "studio": "Science SARU",
+    "episodes": [
+      { "episode": "1", "title": "That's How Aliens Work, Right?", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
+      { "episode": "2", "title": "That's How Ghouls Work, Right?", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" },
+      { "episode": "3", "title": "Let's Go to the Cram School", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" },
+      { "episode": "4", "title": "A Gorgeous Woman Has Arrived", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4" },
+      { "episode": "5", "title": "Evil Eye", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4" }
+    ]
+  },
+  {
+    "id": "one-piece",
+    "title": "One Piece",
+    "titleJp": "ワンピース",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/6/73245.jpg",
+    "banner": "https://cdn.myanimelist.net/images/anime/6/73245.jpg",
+    "genre": ["Action", "Adventure", "Comedy", "Fantasy"],
+    "rating": 8.7,
+    "status": "Ongoing",
+    "synopsis": "Monkey D. Luffy sets off on an adventure with his pirate crew in hopes of finding the greatest treasure ever, known as 'One Piece', and becoming the King of Pirates.",
+    "year": 1999,
+    "studio": "Toei Animation",
+    "episodes": [
+      { "episode": "1", "title": "I'm Luffy! The Man Who's Gonna Be King of the Pirates!", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
+      { "episode": "2", "title": "Enter the Great Swordsman! Pirate Hunter Roronoa Zoro!", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" },
+      { "episode": "3", "title": "Morgan versus Luffy! Who's the Mysterious Pretty Girl?", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" }
+    ]
+  },
+  {
+    "id": "chainsaw-man",
+    "title": "Chainsaw Man",
+    "titleJp": "チェンソーマン",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
+    "banner": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
+    "genre": ["Action", "Supernatural", "Horror"],
+    "rating": 8.5,
+    "status": "Completed",
+    "synopsis": "Denji is a teenage boy living with a Chainsaw Devil named Pochita. Due to debt his father left behind, he has been living a rock-bottom life while repaying his debt by harvesting devil corpses.",
+    "year": 2022,
+    "studio": "MAPPA",
+    "episodes": [
+      { "episode": "1", "title": "Dog & Chainsaw", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
+      { "episode": "2", "title": "Arrival in Tokyo", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" },
+      { "episode": "3", "title": "Meowy's Whereabouts", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" },
+      { "episode": "4", "title": "Rescue", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4" },
+      { "episode": "5", "title": "Gun Devil", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4" }
+    ]
+  },
+  {
+    "id": "spy-x-family",
+    "title": "Spy x Family Season 2",
+    "titleJp": "スパイファミリー 第2期",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1441/139629.jpg",
+    "banner": "https://cdn.myanimelist.net/images/anime/1441/139629.jpg",
+    "genre": ["Action", "Comedy", "Slice of Life"],
+    "rating": 8.4,
+    "status": "Completed",
+    "synopsis": "The Forger family continues their unconventional life together. Loid must maintain his cover as a psychiatrist while Yor hides her identity as an assassin, and Anya navigates school with her telepathic powers.",
+    "year": 2023,
+    "studio": "WIT Studio",
+    "episodes": [
+      { "episode": "1", "title": "The Pretend Family's Summer", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
+      { "episode": "2", "title": "The Friendly Unit", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" },
+      { "episode": "3", "title": "Prepare for the Interview", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" }
+    ]
+  },
+  {
+    "id": "blue-lock",
+    "title": "Blue Lock Season 2",
+    "titleJp": "ブルーロック VS. U-20 JAPAN",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1908/135431.jpg",
+    "banner": "https://cdn.myanimelist.net/images/anime/1908/135431.jpg",
+    "genre": ["Sports", "Drama", "Shounen"],
+    "rating": 8.2,
+    "status": "Ongoing",
+    "synopsis": "After surviving Blue Lock, the remaining strikers face their greatest challenge yet: a match against the U-20 Japan national team. Victory means the continuation of Blue Lock; defeat means its dissolution.",
+    "year": 2024,
+    "studio": "8bit",
+    "episodes": [
+      { "episode": "1", "title": "The Chosen Striker", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
+      { "episode": "2", "title": "New World", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" },
+      { "episode": "3", "title": "Devil's Trigger", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" }
+    ]
+  },
+  {
+    "id": "demon-slayer",
+    "title": "Demon Slayer: Infinity Castle",
+    "titleJp": "鬼滅の刃 無限城編",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+    "banner": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+    "genre": ["Action", "Supernatural", "Fantasy"],
+    "rating": 8.9,
+    "status": "Ongoing",
+    "synopsis": "Tanjiro and the Hashira face their ultimate battle against Muzan Kibutsuji in the Infinity Castle. The fate of the demon slayers and all of humanity rests on this final confrontation.",
+    "year": 2025,
+    "studio": "ufotable",
+    "episodes": [
+      { "episode": "1", "title": "Infinity Castle Begins", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
+      { "episode": "2", "title": "Hashira Unite", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" }
+    ]
+  },
+  {
+    "id": "oshi-no-ko",
+    "title": "Oshi no Ko Season 2",
+    "titleJp": "【推しの子】第2期",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1812/138015.jpg",
+    "banner": "https://cdn.myanimelist.net/images/anime/1812/138015.jpg",
+    "genre": ["Drama", "Supernatural", "Mystery"],
+    "rating": 8.3,
+    "status": "Completed",
+    "synopsis": "Aqua and Ruby Hoshino continue their journey in the entertainment industry. Aqua seeks to uncover the truth behind his mother's death while navigating the complex world of show business.",
+    "year": 2024,
+    "studio": "Doga Kobo",
+    "episodes": [
+      { "episode": "1", "title": "The Hidden Face of a Genius", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
+      { "episode": "2", "title": "Acting", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" },
+      { "episode": "3", "title": "The Stage and the Girl", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" },
+      { "episode": "4", "title": "Eyes That Don't Lie", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4" }
+    ]
+  },
+  {
+    "id": "mha-s7",
+    "title": "My Hero Academia Season 7",
+    "titleJp": "僕のヒーローアカデミア 第7期",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1908/135431.jpg",
+    "banner": "https://cdn.myanimelist.net/images/anime/1908/135431.jpg",
+    "genre": ["Action", "Superhero", "School"],
+    "rating": 7.9,
+    "status": "Completed",
+    "synopsis": "The final war between heroes and villains begins. Deku and his classmates must face Shigaraki and All For One in a battle that will determine the future of hero society.",
+    "year": 2024,
+    "studio": "Bones",
+    "episodes": [
+      { "episode": "1", "title": "The Final Act Begins", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
+      { "episode": "2", "title": "Heroes Assemble", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" },
+      { "episode": "3", "title": "The Mightiest Battle", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" }
+    ]
+  },
+  {
+    "id": "vinland-saga-s2",
+    "title": "Vinland Saga Season 2",
+    "titleJp": "ヴィンランド・サガ SEASON 2",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1993/131324.jpg",
+    "banner": "https://cdn.myanimelist.net/images/anime/1993/131324.jpg",
+    "genre": ["Action", "Drama", "Historical"],
+    "rating": 8.8,
+    "status": "Completed",
+    "synopsis": "Thorfinn, now a slave, begins a journey of self-discovery and atonement. Seeking a world without war or slavery, he must confront his violent past and find a new path forward.",
+    "year": 2023,
+    "studio": "MAPPA",
+    "episodes": [
+      { "episode": "1", "title": "Slave", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
+      { "episode": "2", "title": "The Land on the Far Bank", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" },
+      { "episode": "3", "title": "A Path to Nowhere", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" },
+      { "episode": "4", "title": "The Swell", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4" },
+      { "episode": "5", "title": "Hild", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4" }
+    ]
+  },
+  {
+    "id": "bocchi",
+    "title": "Bocchi the Rock! Movie",
+    "titleJp": "ぼっち・ざ・ろっく！劇場版",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1448/127956.jpg",
+    "banner": "https://cdn.myanimelist.net/images/anime/1448/127956.jpg",
+    "genre": ["Comedy", "Music", "Slice of Life"],
+    "rating": 8.8,
+    "status": "Completed",
+    "synopsis": "Hitori Gotoh, a shy introverted girl, dreams of being in a band. When she's recruited by Nijika Ijichi to join Kessoku Band, her life changes as she navigates friendship, music, and her social anxiety.",
+    "year": 2024,
+    "studio": "CloverWorks",
+    "episodes": [
+      { "episode": "1", "title": "Full Movie", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" }
+    ]
+  },
+  {
+    "id": "wind-breaker",
+    "title": "Wind Breaker",
+    "titleJp": "WIND BREAKER",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1987/138020.jpg",
+    "banner": "https://cdn.myanimelist.net/images/anime/1987/138020.jpg",
+    "genre": ["Action", "School", "Drama"],
+    "rating": 8.0,
+    "status": "Ongoing",
+    "synopsis": "Haruka Sakura enrolls in Furin High School, known for its delinquents. He seeks to be the strongest but discovers the students protect the town from outside threats.",
+    "year": 2024,
+    "studio": "CloverWorks",
+    "episodes": [
+      { "episode": "1", "title": "The Town Called Furin", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
+      { "episode": "2", "title": "Furin High's Pride", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" },
+      { "episode": "3", "title": "Formation", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" }
+    ]
+  },
+  {
+    "id": "kaiju-no8",
+    "title": "Kaiju No. 8",
+    "titleJp": "怪獣8号",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1373/136968.jpg",
+    "banner": "https://cdn.myanimelist.net/images/anime/1373/136968.jpg",
+    "genre": ["Action", "Sci-Fi", "Comedy"],
+    "rating": 7.8,
+    "status": "Ongoing",
+    "synopsis": "In a world plagued by kaiju, Kafka Hibino dreams of joining the Defense Force. When he gains the power to turn into a kaiju himself, he must hide his secret while fighting to protect humanity.",
+    "year": 2024,
+    "studio": "Production I.G",
+    "episodes": [
+      { "episode": "1", "title": "The Boy Who Dreams of Kaiju", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
+      { "episode": "2", "title": "The Defenders of Tokyo", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" },
+      { "episode": "3", "title": "The Power Within", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" }
+    ]
+  },
+  {
+    "id": "shangri-la",
+    "title": "Shangri-La Frontier Season 2",
+    "titleJp": "シャングリラ・フロンティア 第2期",
+    "thumbnail": "https://cdn.myanimelist.net/images/anime/1945/136680.jpg",
+    "banner": "https://cdn.myanimelist.net/images/anime/1945/136680.jpg",
+    "genre": ["Action", "Adventure", "Game", "Fantasy"],
+    "rating": 8.1,
+    "status": "Ongoing",
+    "synopsis": "Sunraku continues his journey through the trash game Shangri-La Frontier, uncovering hidden secrets and challenging the most powerful enemies in the game.",
+    "year": 2025,
+    "studio": "C2C",
+    "episodes": [
+      { "episode": "1", "title": "Return to Shangri-La", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
+      { "episode": "2", "title": "The Colosseum", "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" }
+    ]
+  }
+]
